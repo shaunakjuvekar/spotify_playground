@@ -5,7 +5,7 @@ There are two mini-projects here
 2. A Music Recommendation System
 
 # Exploratory data analysis
-Analysis and operations include :-
+Sample analysis steps and operations include :-
 1. Data cleaning
 2. Correlations between variables
 3. Durations of songs based on genre
